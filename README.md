@@ -32,7 +32,7 @@ A **VSCode-themed developer portfolio** built with **Next.js**, featuring my pro
 ---
 
 ## 🔗 Live Demo
-👉 **[View Live Portfolio](https://vipul-portfolio.vercel.app)**
+👉 **[View Live Portfolio](https://vipul-portfolio-lvqm.vercel.app/)**
 
 ---
 
