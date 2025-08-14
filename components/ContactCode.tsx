@@ -4,7 +4,7 @@ const contactItems = [
   {
     social: 'website',
     link: 'vipul-portfolio.vercel.app',
-    href: 'https://vipul-portfolio.vercel.app',
+    href: 'https://vipul-portfolio-lvqm.vercel.app/',
   },
   {
     social: 'email',
